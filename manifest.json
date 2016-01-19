@@ -1,0 +1,19 @@
+{
+  "appID": "65cec55263df46eeb40fe854d12bf19c",
+  "dependencies": {
+    "devkit-core": "https://github.com/gameclosure/devkit-core#",
+    "devkit-entities": "https://github.com/gameclosure/devkit-entities.git#v0.5.3",
+    "devkit-parallax": "https://github.com/gameclosure/devkit-parallax#v0.3.5",
+    "devkit-spine": "https://github.com/chung-nguyen/devkit-spine#v1.0.0"
+  },
+  "shortName": "spineSuperBoy",
+  "studio": {
+    "domain": "studio.weeby.com",
+    "name": "Weeby",
+    "stagingDomain": "staging.weeby.com"
+  },
+  "supportedOrientations": [
+    "landscape"
+  ],
+  "title": "Spine Super Boy"
+}
